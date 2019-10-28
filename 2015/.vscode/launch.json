@@ -2,6 +2,12 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - BoosterTracker",
+            "request": "launch",
+            "mainClass": "BoosterTracker"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - Day2",
             "request": "launch",
             "mainClass": "Day2"
